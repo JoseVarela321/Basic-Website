@@ -9,10 +9,10 @@
   --blue: #007bff;
   
   /*Prueba para hacer commit*/
-  /*Agregamos un color nuevo*/
+  /*Borraamos color  un color nuevo*/
 
   --indigo: #6610f2;
-  --indigo:var(--red);
+  
   --purple: #6f42c1;
   --pink: #e83e8c;
   --red: #dc3545;
